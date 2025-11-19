@@ -23,3 +23,5 @@ print(f(i, j,z))
 <img width="538" height="409" alt="image" src="https://github.com/user-attachments/assets/380a012e-11ac-4abb-8ae6-0d6e4b113007" />
 
 ## Result
+Thus, the python program was executed successfully
+

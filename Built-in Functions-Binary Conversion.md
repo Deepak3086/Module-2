@@ -19,3 +19,5 @@ print(y)
 <img width="404" height="344" alt="image" src="https://github.com/user-attachments/assets/1f4ca97d-7087-41a7-9ff5-938c121a04b3" />
 
 ## Result
+Thus, the python program was executed successfully
+
